@@ -87,6 +87,11 @@ This project demonstrates SQL skills by solving real-world scenarios using an e-
 
 ---
 
+## Getting Started
+
+### Prerequisites
+- Oracle SQL.
+
 ## How to Use
 
 1. Clone the repository:
